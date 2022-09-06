@@ -50,11 +50,11 @@ function Header() {
 							<Nav.Link href="#experience" onClick={handleClick}>
 								Experience
 							</Nav.Link>
-							<Nav.Link href="#skill" onClick={handleClick}>
-								Skills
-							</Nav.Link>
 							<Nav.Link href="#project" onClick={handleClick}>
 								Projects
+							</Nav.Link>
+							<Nav.Link href="#skill" onClick={handleClick}>
+								Skills
 							</Nav.Link>
 							<Nav.Link href="#contact" onClick={handleClick}>
 								Contact
