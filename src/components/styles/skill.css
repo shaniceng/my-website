@@ -1,0 +1,15 @@
+.skill {
+    background-color: #a59290;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+  }
+
+  #skill h1 {
+    color: #fff;
+  }
+  
+  .skill-card {
+    margin: 20px auto;
+    width: 20rem;
+  }
+  

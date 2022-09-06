@@ -1,0 +1,84 @@
+.home {
+    background: url("../images/headerBackground.jpg") center center/cover no-repeat;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	box-shadow: inset 0 0 0 1000px rgba(32, 46, 43, 0.37);
+	position: relative;
+    text-align: center;
+    padding: 5% 5%;
+  }
+  
+  .home h1,
+.home h2,
+.home p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color:rgb(236, 221, 203);
+}
+#home-page {
+    width: 500px;
+}
+  .home-col {
+    padding: 5% 5%;
+  }
+  .button-home {
+    margin: 5% 3% 5% 0%;
+  }
+  
+  .button-home a:hover,
+  :focus {
+    color: #9acd32 !important;
+  }
+  
+  .image-home {
+    width: 75%;
+    transform: rotate(0deg);
+    position: relative;
+
+  }
+  
+  @media (max-width: 1028px) {
+    .home {
+      text-align: center;
+    }
+  
+    .image-home {
+      position: static;
+      transform: rotate(0);
+    }
+    #home-page{
+        width: auto;
+    }
+     
+  }
+
+  @media (max-width: 992px) {
+    .image-home{
+        width: 50%;
+    }
+    .home h1 {
+        font-size: 40px;
+    }
+    .home h2 {
+        font-size: 24px;
+    }
+  }
+
+  @media (max-width: 570px) {
+    .image-home{
+        width: 100%;
+    }
+    .home h1 {
+        font-size: 30px;
+    }
+    .home h2 {
+        font-size: 18px;
+    }
+    .home p {
+        font-size: 14px;
+    }
+  }
+  

@@ -1,0 +1,29 @@
+.about {
+    background-color: #a59290;
+    color: #2c3433;
+  }
+  
+  .about h1,
+  .about h2,
+  .about h3,
+  .about p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #2c3433;
+  }
+  
+  .about h1 {
+    text-align: center;
+  }
+  
+  .about-row {
+    padding: 4.5%;
+  }
+  
+  .about-col {
+    padding: auto 10%;
+  }
+  .about-image {
+    width: 70%;
+  }
+  
