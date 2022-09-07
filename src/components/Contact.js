@@ -72,7 +72,7 @@ function Contact() {
 						<a href="https://github.com/shaniceng">
 							<SiGithub size={40} />
 						</a>
-						<a href="www.linkedin.com/in/shaniceng">
+						<a href="https://www.linkedin.com/in/shaniceng">
 							<SiLinkedin size={40} />
 						</a>
 						<a href="https://www.instagram.com/ngshanice/">
