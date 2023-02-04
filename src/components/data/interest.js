@@ -27,11 +27,7 @@ const interest = [
 		detail: "Love crocheting as a form to relief stress",
 	},
 	{
-<<<<<<< HEAD
 		src: "images/Music.png",
-=======
-		src: "images/music.png",
->>>>>>> e5cae5c61966e73759d8d5252ba40bac619f15ae
 		alt: "Listen to Music",
 		icon: <Music fontSize="large" />,
 		title: "Listening to Music",

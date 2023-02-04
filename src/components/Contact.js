@@ -72,11 +72,7 @@ function Contact() {
 						<a href="https://github.com/shaniceng">
 							<SiGithub size={40} />
 						</a>
-<<<<<<< HEAD
 						<a href="www.linkedin.com/in/shaniceng">
-=======
-						<a href="https://www.linkedin.com/in/shaniceng">
->>>>>>> e5cae5c61966e73759d8d5252ba40bac619f15ae
 							<SiLinkedin size={40} />
 						</a>
 						<a href="https://www.instagram.com/ngshanice/">
