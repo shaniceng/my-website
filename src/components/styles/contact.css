@@ -23,6 +23,13 @@
     width: 400px;
     height: 350px;
   }
+<<<<<<< HEAD
+=======
+
+  .progress-color {
+    background-color: #0c0d0e;
+  }
+>>>>>>> e5cae5c61966e73759d8d5252ba40bac619f15ae
   
   
   @media (max-width: 1028px) {
