@@ -19,6 +19,11 @@ const experience = [
 		event: "Private Tuition Tutor",
 		detail: "Educated and guided primary school students in Mathematics, Science, Chinese and English.",
 	},
+	{
+		date: "05/2023-08/2023",
+		event: "Software Engineering Intern @ Connect2Me Pte Ltd",
+		detail: "Developed a user-friendly Flutter app with IoT integration for streamlined facility booking. Spearheaded an end-to-end creation of the Science Centre's Windows Form App. Applied Agile methodologies for efficient project management.",
+	},
 ];
 
 export default experience;

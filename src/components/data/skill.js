@@ -28,11 +28,16 @@ const skill = [
 			{
 				title: "Python",
 			},
+			{
+				title: "Dart",
+			},
+			{
+				title: "JavaScript",
+			},
 		],
 	},
-
 	{
-		name: "Web",
+		name: "Frameworks",
 		style: {
 			background: "#122",
 			color: "#fff",
@@ -40,19 +45,19 @@ const skill = [
 			height: "5rem",
 			margin: "10px auto",
 		},
-		icon: <CgWebsite size={70} />,
+		icon: <DiJava size={70} />,
 		detail: [
 			{
-				title: "HTML, CSS",
+				title: "Flutter",
 			},
 			{
-				title: "Javascript",
-			},
-			{
-				title: "React",
+				title: "ReactJS",
 			},
 			{
 				title: "Bootstrap",
+			},
+			{
+				title: "",
 			},
 		],
 	},
@@ -107,6 +112,9 @@ const skill = [
 			},
 			{
 				title: "GitHub",
+			},
+			{
+				title: "IoT",
 			},
 		],
 	},

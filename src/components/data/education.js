@@ -10,7 +10,7 @@ const education = [
 		detail: "Diploma in Engineering Science, awarded Lien Ying Chow scholarship in 2020, School of Engineering Merit Award in 2019, Second Most Outstanding Award in 2018 and in Director's List",
 	},
 	{
-		date: "08/2021-05/2025(expected graduation)",
+		date: "08/2021-08/2024(expected graduation)",
 		event: "National University of Singapore",
 		detail: "Bachelor in Computer Science (Honours)",
 	},

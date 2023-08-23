@@ -2,7 +2,7 @@ import React from "react";
 import { Row, Col, Image } from "react-bootstrap";
 import "./styles/about.css";
 import ScrollAnimation from "react-animate-on-scroll";
-import aboutImage from "./images/shanice_profile.png";
+import aboutImage from "./images/shanice_profile.jpg";
 
 function About() {
 	return (
@@ -29,7 +29,7 @@ function About() {
 					>
 						<h3>HELLO!</h3>
 						<p>
-							I am currently a Y2 computer science student
+							I am currently a Y3 computer science student
 							studying in NUS. I have a strong passion in software
 							engineering as I was first exposed in my tertiary
 							studies. Since then, I have decided to apply for
