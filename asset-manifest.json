@@ -1,28 +1,17 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.620fe4c8.chunk.css",
-    "main.js": "/my-website/static/js/main.5be345d7.chunk.js",
-    "main.js.map": "/my-website/static/js/main.5be345d7.chunk.js.map",
-    "runtime-main.js": "/my-website/static/js/runtime-main.166fa9b2.js",
-    "runtime-main.js.map": "/my-website/static/js/runtime-main.166fa9b2.js.map",
-    "static/css/2.77121a78.chunk.css": "/my-website/static/css/2.77121a78.chunk.css",
-    "static/js/2.8be1a59f.chunk.js": "/my-website/static/js/2.8be1a59f.chunk.js",
-    "static/js/2.8be1a59f.chunk.js.map": "/my-website/static/js/2.8be1a59f.chunk.js.map",
+    "main.css": "/my-website/static/css/main.6ae80d02.css",
+    "main.js": "/my-website/static/js/main.31d32464.js",
+    "static/media/about.png": "/my-website/static/media/about.df9a8e367737e766b63e.png",
+    "static/media/shanice_profile.jpg": "/my-website/static/media/shanice_profile.bc8b04c90a55c50c65a0.jpg",
+    "static/media/headerBackground.jpg": "/my-website/static/media/headerBackground.59c4d5216fa546385170.jpg",
+    "static/media/shanice_ng_resume.pdf": "/my-website/static/media/shanice_ng_resume.a31ac76816fcc17fecf4.pdf",
     "index.html": "/my-website/index.html",
-    "precache-manifest.c1432175aff675749198d12c79f249fd.js": "/my-website/precache-manifest.c1432175aff675749198d12c79f249fd.js",
-    "service-worker.js": "/my-website/service-worker.js",
-    "static/css/2.77121a78.chunk.css.map": "/my-website/static/css/2.77121a78.chunk.css.map",
-    "static/css/main.620fe4c8.chunk.css.map": "/my-website/static/css/main.620fe4c8.chunk.css.map",
-    "static/media/about.png": "/my-website/static/media/about.b47e7e67.png",
-    "static/media/home.css": "/my-website/static/media/headerBackground.c9fbc06b.jpg",
-    "static/media/pdf3.pdf": "/my-website/static/media/pdf3.e9d2410c.pdf",
-    "static/media/shanice_profile.jpg": "/my-website/static/media/shanice_profile.b7440041.jpg"
+    "main.6ae80d02.css.map": "/my-website/static/css/main.6ae80d02.css.map",
+    "main.31d32464.js.map": "/my-website/static/js/main.31d32464.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.166fa9b2.js",
-    "static/css/2.77121a78.chunk.css",
-    "static/js/2.8be1a59f.chunk.js",
-    "static/css/main.620fe4c8.chunk.css",
-    "static/js/main.5be345d7.chunk.js"
+    "static/css/main.6ae80d02.css",
+    "static/js/main.31d32464.js"
   ]
 }
