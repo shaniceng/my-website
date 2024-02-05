@@ -1,7 +1,6 @@
 import React from "react";
 import { DiJava } from "react-icons/di";
-import { SiGithub, SiUnity, SiFirebase, SiMicrosoftword } from "react-icons/si";
-import { CgWebsite } from "react-icons/cg";
+import { SiUnity, SiFirebase, SiMicrosoftword } from "react-icons/si";
 import { AiOutlineTeam } from "react-icons/ai";
 
 const skill = [
@@ -54,10 +53,10 @@ const skill = [
 				title: "ReactJS",
 			},
 			{
-				title: "Bootstrap",
+				title: "Docker",
 			},
 			{
-				title: "",
+				title: "Bootstrap",
 			},
 		],
 	},

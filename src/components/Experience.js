@@ -20,7 +20,7 @@ function Experience() {
 							key={index}
 							contentStyle={{
 								background: "#fdd3d5",
-								color: "#fff",
+								color: "#2c3433",
 							}}
 							contentArrowStyle={{
 								borderLeft: "7px solid  #2d4059",

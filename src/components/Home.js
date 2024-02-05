@@ -5,7 +5,7 @@ import useTypewriter from "react-typewriter-hook";
 import ScrollAnimation from "react-animate-on-scroll";
 import PictureAsPdfIcon from "@material-ui/icons/PictureAsPdf";
 import homeImage from "./images/about.png";
-import pdf1 from "./file/pdf3.pdf";
+import pdf1 from "./file/shanice_ng_resume.pdf";
 
 //Update wordsDisplay data
 const wordsDisplay = [
