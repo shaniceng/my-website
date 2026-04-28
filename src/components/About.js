@@ -29,14 +29,11 @@ function About() {
 					>
 						<h3>HELLO!</h3>
 						<p>
-							I am currently a Y3 computer science student
-							studying in NUS. I have a strong passion in software
-							engineering as I was first exposed in my tertiary
-							studies. Since then, I have decided to apply for
-							computer science in NUS and have been improving
-							myself. I took up multiple projects which are
-							further elaborated below. Do scroll down to know
-							more about me :)
+							I am a software engineer specializing in web and mobile app development, 
+							driven by a passion for building clean, user-focused digital experiences.
+							I enjoy turning ideas into reality, constantly experimenting with new technologies 
+							and creative solutions.	Always learning and evolving, I strive to craft innovative 
+							products that make a meaningful impact. Do scroll down to know	more about me :)
 						</p>
 					</ScrollAnimation>
 				</Col>
